@@ -1,0 +1,29 @@
+
+	"@metadata": {
+		"authors": [
+			"Kghbln",
+			"Metalhead64",
+			"Tobi 406",
+			"WikiBayer"
+		]
+	},
+	"fortraining-desc": "Stellt eine Benutzeroberfläche auf der Basis des Skins Timeless bereit",
+	"fortraining-anonymous": "Anonym",
+	"fortraining-loggedinas": "Angemeldet als '''$1'''",
+	"fortraining-notloggedin": "Nicht angemeldet",
+	"fortraining-userpage": "{{GENDER:$1|Benutzerseite}}",
+	"fortraining-talkpage": "{{GENDER:$1|Benutzerdiskussion}}",
+	"fortraining-pagelog": "Seitenlogbücher",
+	"fortraining-more": "Mehr",
+	"fortraining-sitetools": "Wikiwerkzeuge",
+	"fortraining-pageactions": "Seitenwerkzeuge",
+	"fortraining-userpagetools": "Benutzerseitenwerkzeuge",
+	"fortraining-action-addsection": "Neues Thema",
+	"fortraining-view-view": "Lesen",
+	"fortraining-pagemisc": "Mehr",
+	"fortraining-namespaces": "Namensräume",
+	"fortraining-pagetools": "Seitenaktionen",
+	"fortraining-languages": "Sprachen",
+	"fortraining-projects": "Weitere Projekte",
+	"fortraining.js": "/* JavaScript an dieser Stelle wird für Benutzer geladen, die die Benutzeroberfläche „ForTraining“ verwenden */"
+}

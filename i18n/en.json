@@ -1,0 +1,27 @@
+{
+	"@metadata": {
+		"authors": [ "Isarra" ]
+	},
+	"skinname-fortraining": "ForTraining",
+	"fortraining-desc": "Our custom skin based on the Timeless skin by the Wikimedia Foundation",
+	"fortraining-anonymous": "Anonymous",
+	"fortraining-loggedinas": "Logged in as '''$1'''",
+	"fortraining-notloggedin": "Not logged in",
+	"fortraining-userpage": "{{GENDER:$1|User}} page",
+	"fortraining-talkpage": "{{GENDER:$1|User}} talk",
+	"fortraining-pagelog": "Page logs",
+	"fortraining-more": "More",
+	"fortraining-sitetools": "Wiki tools",
+	"fortraining-pageactions": "Page tools",
+	"fortraining-userpagetools": "Userpage tools",
+	"fortraining-action-addsection": "New topic",
+	"fortraining-view-view": "Read",
+	"fortraining-pagemisc": "More",
+	"fortraining-namespaces": "Namespaces",
+	"fortraining-pagetools": "Page actions",
+	"fortraining-languages": "Languages",
+	"fortraining-projects": "Other projects",
+	"fortraining-sitetitle": "{{int:Sitetitle}}",
+	"fortraining.css": "/* All CSS here will be loaded for users of the ForTraining skin */",
+	"fortraining.js": "/* All JavaScript here will be loaded for users of the ForTraining skin */"
+}
